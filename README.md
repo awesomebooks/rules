@@ -33,7 +33,7 @@ Each country has unique local-related design:
 
 Open-Source contents (without photos)
 
-Licence: Creative Commons BY-SA
+Licence: [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 
